@@ -6,4 +6,4 @@ Document command usage examples
 
 ## Updated
 
-2026-11-06 07:28:25 UTC
+2026-11-07 06:41:01 UTC
